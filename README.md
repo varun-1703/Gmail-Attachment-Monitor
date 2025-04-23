@@ -73,7 +73,7 @@ This helps you stay updated on shortlisting notifications or other important inf
     *   Click "Create".
     *   A window will pop up showing your Client ID and Client Secret. Click **"DOWNLOAD JSON"**.
     *   **Rename the downloaded file to `credentials.json`**.
-    *   **Place this `credentials.json` file in the root directory** of the cloned project (`gmail-attachment-monitor/`). **IMPORTANT:** Do *not* commit this file to Git if your repository is public. The `.gitignore` file is set up to prevent this.
+    *   **Place this `credentials.json` file in the root directory** of the cloned project (`gmail-attachment-monitor/`). 
 
 ## Usage
 
